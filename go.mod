@@ -1,3 +1,3 @@
 module github.com/shiclukomskaya-ux/hello-golang
 
-go 1.26.1
+go 1.22
